@@ -21,9 +21,6 @@ Goal is to simplify user's life and avoir errors
 
 ## jupyter for training
 
-- video made to show the users how to use the notebooks (https://www.dropbox.com/s/7065w17czkzff5e/JupyterNotebookTutorial.mov?dl=0)
-![alt tag](https://github.com/JeanBilheux/NDAVTrainingMaterial/blob/master/images/tutorial_video.png)
-
 - review of various tools developed for users:
   1. bragg edge extraction for Bragg Edge LDRD (requested by post doc Gian) (https://github.com/ornlneutronimaging/BraggEdgeNotebooks/tree/master/counts_vs_time_bins_region)
   ![alt tag](https://github.com/JeanBilheux/NDAVTrainingMaterial/blob/master/images/col_extraction.png)
