@@ -39,7 +39,7 @@ Goal is to simplify user's life and avoir errors
   
 # Pyqtgraph
 
-- show iBeatles in action (https://github.com/ornlneutronimaging/iBeatles)
+- iBeatles repository (https://github.com/ornlneutronimaging/iBeatles)
  ![alt tag](https://github.com/JeanBilheux/NDAVTrainingMaterial/blob/master/images/ibeatles.png)
 
 - to run pyqtgraph examples
