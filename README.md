@@ -10,7 +10,10 @@
 
 ## jupyter  notebooks / conda / jupyter.sns.gov
 
-- showing one way the users can log in and get access to their notebooks (https://github.com/ornlneutronimaging/IPTS_notebook_instructions/wiki) using IPTS_17099
+- showing one way the users can log in and get access to their notebooks (https://github.com/ornlneutronimaging/IPTS_notebook_instructions/wiki) 
+
+- using IPTS_17099 (via ThinLinc)
+- using IPTS_14382 (on MacBookPro)
 
 ## jupyter widgets
 
