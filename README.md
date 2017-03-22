@@ -1,4 +1,4 @@
-# NDAVTrainingMaterial
+# NeutronDayTutorial
 
 # Interfaces
 
@@ -11,7 +11,6 @@
 ## jupyter  notebooks / conda / jupyter.sns.gov
 
 - showing one way the users can log in and get access to their notebooks (https://github.com/JeanBilheux/IPTS_16259)
-- At the end of the day, those are running scripts found [here](https://github.com/JeanBilheux/IPTS_scripts)
 
 ## jupyter widgets
 
