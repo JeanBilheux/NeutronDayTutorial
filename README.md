@@ -1,11 +1,5 @@
 # NeutronDayTutorial
 
-# Interfaces
-
-## Getting started with PyQt apps
-
-- full tutorial step by step can be found [here](https://github.com/JeanBilheux/PyQtGui101/wiki)
-
 # Jupyter notebooks
 
 ## jupyter  notebooks / conda / jupyter.sns.gov
@@ -60,4 +54,10 @@ Goal is to simplify user's life and avoir errors
  ![alt tag] (https://github.com/JeanBilheux/NDAVTrainingMaterial/blob/master/images/pyqtgraph.gif)
 
 - github that show the ibeatles_light to get up and running in no time (https://github.com/neutrons/GUI_Tools/tree/master/pyqtgraph)
-                    
+                            
+# EXTRA
+
+## Getting started with PyQt apps
+
+- full tutorial step by step can be found [here](https://github.com/JeanBilheux/PyQtGui101/wiki)
+
