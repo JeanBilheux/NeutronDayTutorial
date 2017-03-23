@@ -2,9 +2,16 @@
 
 # Jupyter notebooks
 
-## jupyter widgets
-
 Goal is to simplify user's life and avoir errors 
+
+## jupyter  notebooks / conda / jupyter.sns.gov
+
+- showing one way the users can log in and get access to their notebooks (https://github.com/ornlneutronimaging/IPTS_notebook_instructions/wiki) 
+
+- using IPTS_17099 (via ThinLinc)
+- using IPTS_14382 (on MacBookPro)
+
+## widgets
 
 - Here we look at 2 notebooks that do the same thing but one takes advantages of the widgets, the other don't (https://github.com/JeanBilheux/NotebooksWithWithoutWidgets.git)
 - List of widgets and how to use them (https://github.com/JeanBilheux/python_tutorial/tree/master/jupyter/widgets)
@@ -23,13 +30,6 @@ Goal is to simplify user's life and avoir errors
   4. resonance imaging (https://github.com/JeanBilheux/ResonanceImaging) (requested by PhD student)
   ![alt tag](https://github.com/JeanBilheux/NDAVTrainingMaterial/blob/master/images/resonance.png)
   
-## jupyter  notebooks / conda / jupyter.sns.gov
-
-- showing one way the users can log in and get access to their notebooks (https://github.com/ornlneutronimaging/IPTS_notebook_instructions/wiki) 
-
-- using IPTS_17099 (via ThinLinc)
-- using IPTS_14382 (on MacBookPro)
-
 ## how to show your github notebooks (the nice way)
 
  - default:
