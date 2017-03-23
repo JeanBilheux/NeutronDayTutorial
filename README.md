@@ -16,20 +16,6 @@ Goal is to simplify user's life and avoir errors
 - Here we look at 2 notebooks that do the same thing but one takes advantages of the widgets, the other don't (https://github.com/JeanBilheux/NotebooksWithWithoutWidgets.git)
 - List of widgets and how to use them (https://github.com/JeanBilheux/python_tutorial/tree/master/jupyter/widgets)
 
-## jupyter for training
-
-- review of various tools developed for users:
-  1. bragg edge extraction for Bragg Edge LDRD (requested by post doc Gian) (https://github.com/ornlneutronimaging/BraggEdgeNotebooks/tree/master/counts_vs_time_bins_region)
-  ![alt tag](https://github.com/JeanBilheux/NDAVTrainingMaterial/blob/master/images/col_extraction.png)
- 
-  2. notebook for live experiment (https://github.com/ornlneutronimaging/TOFexperiments) (requested by imaging team)
-  ![alt tag](https://github.com/JeanBilheux/NDAVTrainingMaterial/blob/master/images/tof_experiments.png)
-  
-  3. adding files together in parallel (Requested by several phD students) (https://github.com/ornlneutronimaging/users_ipython_notebook/blob/master/images_manipulation/combine_images_from_n_folders_parallelization.ipynb)
- 
-  4. resonance imaging (https://github.com/JeanBilheux/ResonanceImaging) (requested by PhD student)
-  ![alt tag](https://github.com/JeanBilheux/NDAVTrainingMaterial/blob/master/images/resonance.png)
-  
 ## how to show your github notebooks (the nice way)
 
  - default:
