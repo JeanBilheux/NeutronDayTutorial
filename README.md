@@ -36,6 +36,12 @@ Goal is to simplify user's life and avoir errors
   4. resonance imaging (https://github.com/JeanBilheux/ResonanceImaging) (requested by PhD student)
   ![alt tag](https://github.com/JeanBilheux/NDAVTrainingMaterial/blob/master/images/resonance.png)
   
+## how to show your github notebooks (the nice way)
+
+ - default:
+ https://github.com/ornlneutronimaging/IPTS_14382/blob/master/step8_roi_profile.ipynb
+ - using nbviewer (http://nbviewer.jupyter.org/)
+ http://nbviewer.jupyter.org/github/ornlneutronimaging/IPTS_14382/blob/master/step8_roi_profile.ipynb
   
 # Pyqtgraph
 
