@@ -2,13 +2,6 @@
 
 # Jupyter notebooks
 
-## jupyter  notebooks / conda / jupyter.sns.gov
-
-- showing one way the users can log in and get access to their notebooks (https://github.com/ornlneutronimaging/IPTS_notebook_instructions/wiki) 
-
-- using IPTS_17099 (via ThinLinc)
-- using IPTS_14382 (on MacBookPro)
-
 ## jupyter widgets
 
 Goal is to simplify user's life and avoir errors 
@@ -30,6 +23,13 @@ Goal is to simplify user's life and avoir errors
   4. resonance imaging (https://github.com/JeanBilheux/ResonanceImaging) (requested by PhD student)
   ![alt tag](https://github.com/JeanBilheux/NDAVTrainingMaterial/blob/master/images/resonance.png)
   
+## jupyter  notebooks / conda / jupyter.sns.gov
+
+- showing one way the users can log in and get access to their notebooks (https://github.com/ornlneutronimaging/IPTS_notebook_instructions/wiki) 
+
+- using IPTS_17099 (via ThinLinc)
+- using IPTS_14382 (on MacBookPro)
+
 ## how to show your github notebooks (the nice way)
 
  - default:
@@ -37,7 +37,7 @@ Goal is to simplify user's life and avoir errors
  - using nbviewer (http://nbviewer.jupyter.org/)
  http://nbviewer.jupyter.org/github/ornlneutronimaging/IPTS_14382/blob/master/step8_roi_profile.ipynb
   
-# Pyqtgraph
+# iBeatles
 
 - iBeatles repository (https://github.com/ornlneutronimaging/iBeatles)
  ![alt tag](https://github.com/JeanBilheux/NDAVTrainingMaterial/blob/master/images/ibeatles.png)
